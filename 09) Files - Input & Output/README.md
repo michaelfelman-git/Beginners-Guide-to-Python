@@ -1,1 +1,1 @@
-The text files are required for some of the cells in the jupyter notebook to run.
+The text files are required for some of the cells in the jupyter notebooks to run.
